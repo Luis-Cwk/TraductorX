@@ -4,7 +4,7 @@
 ---
 
 
-## Español | [English](#english)
+## Español |
 
 Un traductor de audio en tiempo real que captura el audio del sistema, lo transcribe usando OpenAI Whisper, traduce al español y reproduce la traducción en voz. Perfecto para Twitter Spaces, reuniones o cualquier contenido de audio en vivo.
 
@@ -85,7 +85,7 @@ Gratuito para uso personal.
 
 ---
 
-## English | [Español](#español)
+## English | 
 
 A real-time audio translator that captures system audio, transcribes it using OpenAI Whisper, translates to Spanish, and speaks the translation aloud. Perfect for Twitter Spaces, meetings, or any live audio content.
 
