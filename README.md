@@ -28,7 +28,7 @@ A real-time audio translator that captures system audio, transcribes it using Op
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/TraductorX.git
+git clone https://github.com/Luis-Cwk/TraductorX.git
 cd TraductorX
 
 # Install dependencies
@@ -110,7 +110,7 @@ Un traductor de audio en tiempo real que captura el audio del sistema, lo transc
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/YOUR_USERNAME/TraductorX.git
+git clone https://github.com/Luis-Cwk/TraductorX.git
 cd TraductorX
 
 # Instalar dependencias
