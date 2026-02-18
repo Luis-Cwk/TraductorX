@@ -1,0 +1,6 @@
+openai-whisper
+sounddevice
+numpy
+deep-translator
+pyttsx3
+edge-tts
